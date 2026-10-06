@@ -1,10 +1,8 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Md%20Ismail%20Hossain&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20%26%20Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18" alt="Md Ismail Hossain banner" />
-</p>
+<h1 align="center">Hi 👋, I'm Md Ismail Hossain</h1>
+<h3 align="center">Python Developer | Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=620&lines=%3E+print(%22Hello%2C+World!%22);%3E+building+APIs+with+FastAPI;%3E+shipping+React+interfaces;%3E+ETE+student+%40+CUET" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=560&lines=Building+APIs+with+FastAPI;Shipping+React+interfaces;ETE+student+at+CUET;Turning+ideas+into+live+products" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -18,7 +16,7 @@
 
 ## 🎮 Player Profile
 
-| | |
+| Stat | Detail |
 | --- | --- |
 | **Player** | Md Ismail Hossain |
 | **Class** | Python Developer · Full Stack Web Developer |
@@ -94,5 +92,3 @@ Also in my toolkit: Pydantic · Matplotlib · JWT authentication · SQLAlchemy �
 </p>
 
 <p align="center"><i>Got a project idea? Press start → <a href="mailto:ismailibnesyed@gmail.com">ismailibnesyed@gmail.com</a></i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="footer" />

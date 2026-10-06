@@ -9,6 +9,7 @@
   <a href="https://ismail-portfolio-dusky-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/ismailibnesyed"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ismailibnesyed@gmail.com"><img src="https://img.shields.io/badge/Gmail-b91c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ismailibnesyed/portfolio/raw/main/public/images/Resume%20of%20Ismail.pdf"><img src="https://img.shields.io/badge/Download_Resume-ef4444?style=for-the-badge&logo=readme&logoColor=white" alt="Download Resume" /></a>
   <a href="https://drive.google.com/drive/folders/121Z1PnNkBKsIZS4kUpNZLjIagiN1ExiP"><img src="https://img.shields.io/badge/Experience-22c55e?style=for-the-badge&logo=googledrive&logoColor=white" alt="Experience" /></a>
 </p>
 
@@ -31,6 +32,7 @@
 
 - 🚧 **Main quest:** my new portfolio, a React frontend with a FastAPI backend and an admin panel
 - 🧩 **Daily training:** problem solving on LeetCode, Codeforces, CodeChef and HackerRank
+- 🔭 **Next:** DevOps, MLOps and CI/CD
 - 🌱 **Always:** cleaner code, safer APIs, better deployments
 
 ## 🌳 Skill tree
@@ -52,6 +54,18 @@
 
 Also in my toolkit: Pydantic · Matplotlib · JWT authentication · SQLAlchemy · problem solving 🧩
 
+## 🔮 Future upgrades
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Next+unlock%3A+DevOps;Next+unlock%3A+MLOps;Next+unlock%3A+CI+and+CD+pipelines;Upgrading+myself+every+day" alt="Future upgrades animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Planned-lightgrey?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/MLOps-Planned-lightgrey?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLOps" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Planned-lightgrey?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+</p>
+
 ## 🗺️ Quest log
 
 | Quest | What I built | Gear used | Status |
@@ -61,23 +75,23 @@ Also in my toolkit: Pydantic · Matplotlib · JWT authentication · SQLAlchemy �
 | 🧬 **OOP Project** | Practice project covering encapsulation, inheritance, polymorphism and abstraction | Python | 📘 Training · [Code](https://github.com/ismailibnesyed/OOPs-Assignment) |
 | 🙂 **Mood Tracker** | My first interactive Python app, built while learning the basics | Python | 🌱 Beginner quest |
 
-## 📈 Leaderboard
+## 🏆 Leaderboard
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" alt="Python" /><br/>
+  <b>🥇 Most used language: Python</b><br/>
+  <sub>Powering my FastAPI backends, REST APIs, authentication and database layers</sub>
+</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ismailibnesyed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailibnesyed&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailibnesyed&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ismailibnesyed&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-## 📊 Activity graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismailibnesyed&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff" alt="Contribution activity graph" width="100%" />
-</p>
-
-## 📡 Summon me
+## 📡 Contact me
 
 <p align="center">
   <a href="https://linkedin.com/in/ismailibnesyed"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -90,5 +104,7 @@ Also in my toolkit: Pydantic · Matplotlib · JWT authentication · SQLAlchemy �
   <a href="https://www.codechef.com/users/ismailibnesyed"><img src="https://img.shields.io/badge/CodeChef-5b4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
   <a href="https://www.hackerrank.com/ismailibnesyed"><img src="https://img.shields.io/badge/HackerRank-00ea64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 </p>
+
+<p align="center"><a href="https://github.com/ismailibnesyed/portfolio/raw/main/public/images/Resume%20of%20Ismail.pdf">📄 Download my resume</a></p>
 
 <p align="center"><i>Got a project idea? Press start → <a href="mailto:ismailibnesyed@gmail.com">ismailibnesyed@gmail.com</a></i></p>
